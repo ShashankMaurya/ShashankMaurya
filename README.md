@@ -1,5 +1,3 @@
-<!-- ## Hey this is Shashank, Welcome to my Github :exclaimation: -->
-
 <div id="header", align="center">
         <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100">
 </div>
@@ -9,11 +7,13 @@
         <a href="mailto:shashankmaurya260101@gmail.com"><img height="30", src="icons\Gmail_logo.png"></a>
 </div>
 
-<!-- <div id="profile_views, align="center">
-<img src="https://komarev.com/ghpvc/?username=shashankmaurya&style=flat-square&color=blue" alt=""/>
-</div> -->
-
-<!-- ### Hey there 👋 -->
+---
 
 <h1 align="center">Hey There 👋</h1>
 
+<div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
+</div>
+
+### Currently I'm a student :man_student: at KIIT University<br>
+### Trying to find my way through this galaxy of :zero:s and :one:s
