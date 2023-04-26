@@ -36,4 +36,4 @@ Private Limited</em>.
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMaurya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMaurya&layout=compact&theme=vision-friendly-dark)]()
