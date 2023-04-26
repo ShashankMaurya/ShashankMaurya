@@ -24,7 +24,8 @@
  - :muscle: I am currently working as an <strong>Associate Software Engineer</strong> at <em>Bosch Global Software Technologies
 Private Limited</em>.
  - :muscle: I have a strong <strong>BackEnd Development</strong> background working with <em>Servlets</em> and <em>Java Spring Framework</em>.
- - :muscle: I have previously explored :seedling: and experimented with <strong>Android Projects</strong> as well.
+ - :muscle: I have previously explored :seedling: and experimented with <strong>Android Projects</strong> as well.&nbsp;
+ <img align='right' src="icons\Bitmoji_hey.png" height="350">
 
 </div>
 
@@ -34,10 +35,10 @@ Private Limited</em>.
 <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160"><img height="70" src="icons\c++.png"></a>&nbsp;
 <a href="https://developer.android.com/docs"><img height="70" src="icons\android.png"></a>&ensp;
 <a href="https://kotlinlang.org/docs/home.html"><img height="70" width="65" src="icons\kotlin.png"></a>&nbsp;
-<a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&ensp;
+<a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&nbsp;
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)&nbsp;<span><img align='right' src="icons\Bitmoji_hey.png" height="350"></span>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMaurya&layout=compact&theme=vision-friendly-dark)](https://github.com/ShashankMaurya?tab=repositories)
 
