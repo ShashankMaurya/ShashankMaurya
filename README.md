@@ -15,14 +15,7 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
 </div>
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400">
-<foreignObject width="100%" height="100%">
-
-<div id="container", style="justify-content: space-evenly;
-    align-items: center;
-    display: flex;">
-
-<div id="about_me">
+<!-- <div id="about_me">
 
 ## About me :man_student: :
 ### I am a Java Developer from India<br>
@@ -36,17 +29,12 @@ Private Limited</em>.
 </div>
 
 <div id="bitmoji">
-<img src="icons\Bitmoji_hey.png">
+<img align='right' src="icons\Bitmoji_hey.png" height="350">
+</div> -->
+
+<div align="center">
+<img src="div.svg" width="400" height="400" alt="css-in-readme">
 </div>
-
-</div>
-
-</foreignObject>
-</svg>
-
-
-
-
 
 ---
 # :hammer_and_wrench: Languages and Tools :point_down:
