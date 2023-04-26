@@ -34,6 +34,6 @@ Private Limited</em>.
 <a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&ensp;
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMaurya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMaurya&layout=compact&theme=vision-friendly-dark)](https://github.com/ShashankMaurya?tab=repositories)
