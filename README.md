@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center">Hey There 👋</h1><img align='left' src="icons\Bitmoji_hey.png" height="100">
+<h1 align="center">Hey There 👋</h1>
 
 <div id="image" , align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
@@ -26,6 +26,7 @@ Private Limited</em>.
  - :muscle: I have a strong <strong>BackEnd Development</strong> background working with <em>Servlets</em> and <em>Java Spring Framework</em>.
  - :muscle: I have previously explored :seedling: and experimented with <strong>Android Projects</strong> as well.
 
+<img align='right' src="icons\Bitmoji_hey.png" height="350">
 </div>
 
 ---
