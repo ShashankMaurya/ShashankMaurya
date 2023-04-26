@@ -14,8 +14,9 @@
 <div id="image" , align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
 </div>
+<div id="container">
 
-<div id="about_me">
+<div id="about_me" align='left'>
 
 ## About me :man_student: :
 ### I am a Java Developer from India<br>
@@ -30,6 +31,8 @@ Private Limited</em>.
 
 <div id="bitmoji">
 <img align='right' src="icons\Bitmoji_hey.png" height="350">
+</div>
+     
 </div>
 
 ---
