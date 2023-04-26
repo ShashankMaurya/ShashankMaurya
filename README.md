@@ -9,7 +9,7 @@
 
 ---
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There 👋</h1><img align='left' src="icons\Bitmoji_hey.png" height="100">
 
 <div id="image" , align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
@@ -35,8 +35,6 @@ Private Limited</em>.
 <a href="https://developer.android.com/docs"><img height="70" src="icons\android.png"></a>&ensp;
 <a href="https://kotlinlang.org/docs/home.html"><img height="70" width="65" src="icons\kotlin.png"></a>&nbsp;
 <a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&nbsp;
-
-<img align='left' src="icons\Bitmoji_hey.png" height="350">
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)
