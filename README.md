@@ -24,8 +24,7 @@
  - :muscle: I am currently working as an <strong>Associate Software Engineer</strong> at <em>Bosch Global Software Technologies
 Private Limited</em>.
  - :muscle: I have a strong <strong>BackEnd Development</strong> background working with <em>Servlets</em> and <em>Java Spring Framework</em>.
- - :muscle: I have previously explored :seedling: and experimented with <strong>Android Projects</strong> as well.&nbsp;
- <img align='right' src="icons\Bitmoji_hey.png" height="350">
+ - :muscle: I have previously explored :seedling: and experimented with <strong>Android Projects</strong> as well.
 
 </div>
 
@@ -36,6 +35,8 @@ Private Limited</em>.
 <a href="https://developer.android.com/docs"><img height="70" src="icons\android.png"></a>&ensp;
 <a href="https://kotlinlang.org/docs/home.html"><img height="70" width="65" src="icons\kotlin.png"></a>&nbsp;
 <a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&nbsp;
+
+<img align='left' src="icons\Bitmoji_hey.png" height="350">
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)
