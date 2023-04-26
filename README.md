@@ -21,12 +21,14 @@
 ### I am a Java Developer from India<br>
 ### Trying to find my way through this galaxy of :zero:s and :one:s
 
+<img align='right' src="icons\Bitmoji_hey.png" height="350">
+
  - :muscle: I am currently working as an <strong>Associate Software Engineer</strong> at <em>Bosch Global Software Technologies
 Private Limited</em>.
  - :muscle: I have a strong <strong>BackEnd Development</strong> background working with <em>Servlets</em> and <em>Java Spring Framework</em>.
  - :muscle: I have previously explored :seedling: and experimented with <strong>Android Projects</strong> as well.
 
-<img align='right' src="icons\Bitmoji_hey.png" height="350">
+
 </div>
 
 ---
