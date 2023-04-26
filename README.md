@@ -14,7 +14,6 @@
 <div id="image" , align="center">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
 </div>
-<div id="container" width="100%">
 
 <div id="about_me" align='left'>
 
@@ -29,12 +28,6 @@ Private Limited</em>.
 
 </div>
 
-<div id="bitmoji">
-<img align='right' src="icons\Bitmoji_hey.png" height="350">
-</div>
-     
-</div>
-
 ---
 # :hammer_and_wrench: Languages and Tools :point_down:
 <a href="https://docs.oracle.com/en/java/"><img height="70" src="icons\java.png"></a>&nbsp;
@@ -44,7 +37,7 @@ Private Limited</em>.
 <a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&ensp;
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)&nbsp;<img align='right' src="icons\Bitmoji_hey.png" height="350">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankMaurya&layout=compact&theme=vision-friendly-dark)](https://github.com/ShashankMaurya?tab=repositories)
 
