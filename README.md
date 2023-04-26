@@ -15,6 +15,9 @@
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRiYzgyMjJiNTAyNGViNTFkMmJkOGZjMWFjNzgyMmZhMzhiN2Q1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif", width="600", height="300">
 </div>
 
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400">
+<foreignObject width="100%" height="100%">
+
 <div id="container", style="justify-content: space-evenly;
     align-items: center;
     display: flex;">
@@ -37,6 +40,10 @@ Private Limited</em>.
 </div>
 
 </div>
+
+</foreignObject>
+</svg>
+
 
 
 
