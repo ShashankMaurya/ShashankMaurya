@@ -30,7 +30,7 @@ Private Limited</em>.
 </div>
 
 <div id="bitmoji">
-<img align='right' src="icons\Bitmoji_hey.png" height="500">
+<img align='right' src="icons\Bitmoji_hey.png" height="350">
 </div>
      
 </div>
