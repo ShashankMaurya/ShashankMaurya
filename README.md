@@ -32,3 +32,6 @@ Private Limited</em>.
 <a href="https://developer.android.com/docs"><img height="70" src="icons\android.png"></a>&ensp;
 <a href="https://kotlinlang.org/docs/home.html"><img height="70" width="65" src="icons\kotlin.png"></a>&ensp;
 <a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&ensp;
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5&mode=weekly)](https://git.io/streak-stats)
