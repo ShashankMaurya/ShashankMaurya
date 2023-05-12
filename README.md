@@ -2,9 +2,9 @@
         <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200">
 </div>
 <div id="badges", align="center">
-        <a href="https://www.linkedin.com/in/shashankmaurya01/"><img height="50", src="icons\linkedIn.png"></a>&nbsp;
-        <a href="https://www.instagram.com/shashankmaurya01/"><img height="50", src="icons\insta.png"></a>&nbsp;
-        <a href="mailto:shashankmaurya260101@gmail.com"><img height="50", src="icons\Gmail_logo.png"></a>
+        <a href="https://www.linkedin.com/in/shashankmaurya01/" target="_blank"><img height="50", src="icons\linkedIn.png"></a>&nbsp;
+        <a href="https://www.instagram.com/shashankmaurya01/" target="_blank"><img height="50", src="icons\insta.png"></a>&nbsp;
+        <a href="mailto:shashankmaurya260101@gmail.com" target="_blank"><img height="50", src="icons\Gmail_logo.png"></a>
 </div>
 
 ---
@@ -33,11 +33,11 @@ Private Limited</em>.
 
 ---
 # :hammer_and_wrench: Languages and Tools :point_down:
-<a href="https://docs.oracle.com/en/java/"><img height="70" src="icons\java.png"></a>&nbsp;
-<a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160"><img height="70" src="icons\c++.png"></a>&nbsp;
-<a href="https://developer.android.com/docs"><img height="70" src="icons\android.png"></a>&ensp;
-<a href="https://kotlinlang.org/docs/home.html"><img height="70" width="65" src="icons\kotlin.png"></a>&nbsp;
-<a href="https://docs.python.org/3/"><img height="70" width="65" src="icons\python.png"></a>&nbsp;
+<a href="https://docs.oracle.com/en/java/" target="_blank"><img height="70" src="icons\java.png"></a>&nbsp;
+<a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160" target="_blank"><img height="70" src="icons\c++.png"></a>&nbsp;
+<a href="https://developer.android.com/docs" target="_blank"><img height="70" src="icons\android.png"></a>&ensp;
+<a href="https://kotlinlang.org/docs/home.html" target="_blank"><img height="70" width="65" src="icons\kotlin.png"></a>&nbsp;
+<a href="https://docs.python.org/3/" target="_blank"><img height="70" width="65" src="icons\python.png"></a>&nbsp;
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShashankMaurya&theme=dark&border_radius=5)](https://github.com/ShashankMaurya?tab=repositories)
