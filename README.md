@@ -26,7 +26,7 @@
  - :muscle: I am currently working as an <strong>Associate Software Engineer</strong> at <em>Bosch Global Software Technologies
 Private Limited</em>.
  - :muscle: I have a strong <strong>BackEnd Development</strong> background working with <em>NodeJS (Express modules & EJS)</em>, <em>Servlets</em> and <em>Java Spring Framework</em>.
- - :muscle: I also have a strong <strong>FrontEnd Development</strong> background and have hands-on experience with HTML, CSS, JS and libraries like <em>jQuery</em>.
+ - :muscle: I also have a strong <strong>FrontEnd Development</strong> background and have hands-on experience with HTML, CSS, JS and libraries like <em>jQuery</em> and <em>ReactJS</em>.
  - :muscle: I also have experience working with <strong>Databases</strong> => SQL databases like <em>MySQL</em> and <em>SQLite</em> as well as NoSQL databases like <em>MongoDB</em> and <em>Google Firebase</em>.
  - :muscle: I have previously explored :seedling: and experimented with <strong>Android Development</strong> as well.
 
